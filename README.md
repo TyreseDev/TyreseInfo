@@ -1,6 +1,6 @@
 # TyreseInfo
 
-AnyDesk: 1825193063
+AnyDesk: 1554352344
 
 Phone: +1 415 992 7666
 
